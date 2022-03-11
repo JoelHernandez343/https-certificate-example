@@ -10,7 +10,7 @@ const PORT = 8080;
 
 https
   .createServer(options, (req, res) => {
-    console.log('Hmmm');
+    console.log('Sending response...');
     res.writeHead(200);
     res.end('HTTPS enabled!');
   })
