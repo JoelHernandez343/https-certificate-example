@@ -33,3 +33,5 @@ This repo is an example of using local custom certificates, in this case, for a 
 ```
 npm run start
 ```
+
+A version of this example was found on [this auth0 blog post](https://auth0.com/blog/using-https-in-your-development-environment/)
